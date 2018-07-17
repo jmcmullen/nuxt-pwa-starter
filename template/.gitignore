@@ -1,0 +1,16 @@
+# Editors
+.vscode
+
+# Dependencies
+node_modules
+yarn-error.log
+npm-debug.log
+
+# Generated
+.nuxt
+dist
+src/static/sw.js
+.DS_Store
+
+# Environment Variables
+.env
